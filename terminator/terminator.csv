@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet","LCSC Part"
+"C1","1","4.7nF","","","","Capacitor_SMD:C_1206_3216Metric","~","C393168"
+"H1,H2","2","MountingHole_Pad","","Excluded from BOM","","MountingHole:MountingHole_2.2mm_M2_Pad","~",""
+"J1","1","Conn_01x06_Pin","","","","Connector_JST:JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal","~","C157919"
+"R1,R2","2","60R","","","","Capacitor_SMD:C_1206_3216Metric","~","C2086866"
