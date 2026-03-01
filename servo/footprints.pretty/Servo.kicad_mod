@@ -1,0 +1,93 @@
+(footprint "Servo"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "M**"
+		(at 0 -13.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "585571bb-a53e-45db-98cd-8f2d54a01e59")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Servo"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "623b5d1a-3a7a-4852-b778-e9dd96991f67")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc5902d4-e537-4482-9818-f4caba89e346")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "05f5ddc6-57cf-4be9-bfe2-d80693d0c076")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "73373d20-9ebf-45d8-9b05-4d8b0a62037b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.162278 3.162278)
+		(drill 10)
+		(layers "*.Cu")
+		(uuid "774f69df-ecc3-4492-91f0-caf80389d41f")
+	)
+	(pad "1" thru_hole oval
+		(at 0 -9.5 90)
+		(size 5 7)
+		(drill oval 3 5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5eb70f83-b092-4e2b-980a-451d00435fcb")
+	)
+	(pad "2" thru_hole oval
+		(at 0 9.5 90)
+		(size 5 7)
+		(drill oval 3 5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "92453c3c-175b-4074-b2c8-8d872ff801d7")
+	)
+	(embedded_fonts no)
+)

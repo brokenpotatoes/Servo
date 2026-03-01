@@ -1,0 +1,7 @@
+Can not find model defined with enviroment variable:
+${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SON-8_L3.0-W3.0-H1.0-P0.65.wrl
+Can not find model defined with enviroment variable:
+${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOT-23-3_L2.9-W1.3-P1.90-LS2.4.wrl
+Can not find model defined with enviroment variable:
+${EASYEDA2KICAD}/easyeda2kicad.3dshapes/QFN-11_L4.5-W3.5-P0.50-TL_TPSM365R6FRDNR.wrl
+[('Y1', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Oscillator.3dshapes\\Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm.step'), ('U5', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Package_DFN_QFN.3dshapes\\DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm.step'), ('U6', '${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SON-8_L3.0-W3.0-H1.0-P0.65.wrl'), ('D1', '${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOT-23-3_L2.9-W1.3-P1.90-LS2.4.wrl'), ('U1', '${EASYEDA2KICAD}/easyeda2kicad.3dshapes/QFN-11_L4.5-W3.5-P0.50-TL_TPSM365R6FRDNR.wrl'), ('U3', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Package_DFN_QFN.3dshapes\\QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm.step')]

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "servo")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
+  (lib (name "cap FOLDED")(type "KiCad")(uri "${KIPRJMOD}/cap FOLDED.pretty")(options "")(descr ""))
+)
